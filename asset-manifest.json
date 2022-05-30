@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alagbada-Tosin-Scandiweb-Prj/static/css/main.6b0dfbae.css",
+    "main.js": "/Alagbada-Tosin-Scandiweb-Prj/static/js/main.94660b99.js",
+    "index.html": "/Alagbada-Tosin-Scandiweb-Prj/index.html",
+    "main.6b0dfbae.css.map": "/Alagbada-Tosin-Scandiweb-Prj/static/css/main.6b0dfbae.css.map",
+    "main.94660b99.js.map": "/Alagbada-Tosin-Scandiweb-Prj/static/js/main.94660b99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0dfbae.css",
+    "static/js/main.94660b99.js"
+  ]
+}
